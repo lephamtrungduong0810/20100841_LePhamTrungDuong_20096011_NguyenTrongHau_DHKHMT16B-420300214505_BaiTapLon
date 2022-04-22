@@ -24,16 +24,3 @@ Giỏ hàng
 Tìm kiếm/lọc/sắp xếp sản phẩm
 ![Trang chủ](./screenshots/Screenshot_8.png)
 
-### Admin
-
-Admin: Thống kê
-![Trang chủ](./screenshots/Screenshot_9.png)
-
-Admin: Sản phẩm
-![Trang chủ](./screenshots/Screenshot_10.png)
-
-Admin: Đơn hàng
-![Trang chủ](./screenshots/Screenshot_11.png)
-
-Admin: Người dùng
-![Trang chủ](./screenshots/Screenshot_12.png)
